@@ -76,8 +76,5 @@ Implementation of JWT Authentication and Role-Based Authorization.
 - LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
 - Email: your.email@example.com
 
----
-
-### 💡 Motto
-
-> "Learning never stops. Every project is an opportunity to become a better developer."
+ 
+ 
