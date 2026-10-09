@@ -1,4 +1,4 @@
-# Hi, I'm Mohamed Abd Elmawela Kamal 👋
+# Hi, I'm Mohamed Abd Elmawela Kamal 
 
 ### Junior .NET Backend Developer | ASP.NET Core Web API
 
